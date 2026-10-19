@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AownApp.business/AownApp.business.csproj" />
+  <Project Path="AownApp.dataaccess/AownApp.dataaccess.csproj" />
+  <Project Path="AownApp.Models/AownApp.Models.csproj" />
+  <Project Path="AownApp.presentation/AownApp.presentation.csproj" />
+</Solution>
